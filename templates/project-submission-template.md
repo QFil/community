@@ -1,4 +1,4 @@
-## Project Name <!-- Add your project name here with format "Project Name"-->
+## Project Name <!--Fil guarantor proposal"-->
 
 ## Category 
 <!--developer tooling, application, wallet, infrastructure, etc-->
@@ -7,7 +7,7 @@
 <!--Describe your project in a few sentences. -->
 
 ## Project Status
-<!--brainstorming, fundraising, under development, beta, shipped, etc-->
+<!--brainstorming-->
 
 ## Previews
 <!--Add some screenshots to give a preview of your product-->
